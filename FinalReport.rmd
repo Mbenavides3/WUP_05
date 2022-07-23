@@ -29,6 +29,8 @@ $HA$ There is a difference between taking the placebo for females getting aids.
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+We need to separate the females in the population, and then run the inference against the subset that is only made up of females. From there we can test the effectiveness of the drug triUmpsal among females.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
